@@ -1,3 +1,3 @@
 # machine_learning
 
-"Machine learning is a subset of artificial intelligence that involves training models on data in order to make predictions or decisions about new, unseen data. There are three main types of machine learning: supervised learning, unsupervised learning, and reinforcement learning. Supervised learning involves training a model on labeled data, unsupervised learning involves training a model on unlabeled data, and reinforcement learning involves training a model through a system of rewards and punishments. Collecting projects as you learn is a great way to gain hands-on experience and solidify your understanding of the concepts." -- ChatGPT
+
