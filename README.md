@@ -1,3 +1,3 @@
 # machine_learning
 
-Data visualization and machine learning
+Data visualization and machine learning using Python
